@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/KRISHNASAKTHIESWAR">
-    <img src="header_animation.webp" alt="Krishna Shakthi Eswar Profile Header" />
+    <img src="header_animation.svg" alt="Krishna Shakthi Eswar Profile Header" />
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Full-stack software developer dedicated to building **scalable architectures** and **AI driven solutions**.
+Software developer dedicated to building **scalable architectures** and **AI driven solutions**.
 
 <br>
 
