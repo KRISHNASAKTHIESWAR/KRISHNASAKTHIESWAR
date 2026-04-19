@@ -1,22 +1,7 @@
 <div align="center">
-
   <a href="https://github.com/KRISHNASAKTHIESWAR">
-    <img src="https://avatars.githubusercontent.com/u/158746099?v=4" width="120" style="border-radius: 50%; box-shadow: 0px 0px 20px #39d353;" alt="Krishna Shakthi Eswar" />
+    <img src="header_animation.webp" alt="Krishna Shakthi Eswar Profile Header" />
   </a>
-
-  # Krishna Shakthi Eswar
-  
-  <p>Hello there, fellow <code>&lt;developers/&gt;</code>! 👋</p>
-  
-  <p>Software Developer · AI Enthusiast · Web Builder</p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🟢-Open_to_Work-39d353?style=flat-square&color=0d1117&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Software_Developer-58a6ff?style=flat-square&color=0d1117&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Web_Dev_and_AI-8b949e?style=flat-square&color=0d1117&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/India-8b949e?style=flat-square&color=0d1117&labelColor=0d1117" />
-  </p>
-
 </div>
 
 ---
